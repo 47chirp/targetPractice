@@ -1,0 +1,13 @@
+[package]
+name = "target-practice"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+version = "3.0.0"
+crossterm = "0.27.0"
+assets_manager = "0.11.5"
+frenderer = "0.9.14"
+wgpu = "0.20.0"
